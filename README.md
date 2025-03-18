@@ -42,6 +42,7 @@ A Network Engineer with a passion for designing, implementing, and maintaining n
 ## 📜 Certifications
 
 ### Fortinet Certifications
+- Cisco Certified Network Associate (CCNA)
 - FORTINET CERTIFIED FUNDAMENTALS - Cybersecurity (NSE1,2,3)
 - FORTINET CERTIFIED ASSOCIATE - Cybersecurity (Fortigate Operator)
 - FORTINET CERTIFIED PROFESSIONAL - Security Operations (NSE4, NSE5 FortiAnalyzer)
