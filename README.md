@@ -1,4 +1,5 @@
 # Fahrezi Fauzan - Network Engineer
+founder of <a href="exaconet.my.id">EXACO Network Solution</a>
 
 <img src='https://raw.githubusercontent.com/fahreziisnaen/frz/refs/heads/main/frz.png' />
 
