@@ -13,7 +13,12 @@ A Network Engineer with a passion for designing, implementing, and maintaining n
 - Implemented and configured network security solutions
 - Performed network monitoring and troubleshooting
 - Conducted regular network audits and optimizations
-- Managed WAN/LAN connectivity and network devices- 
+- Managed WAN/LAN connectivity and network devices 
+
+### IT Infrastructure for Phillip Securities Hongkong Region at [PT. CyberQuote Indonesia.]
+- Managed and maintained network infrastructure data center.
+- Conducted regular network audits.
+- Managed WAN/LAN connectivity, network and firewall devices.
 
 ## 🛠 Technical Skills
 
